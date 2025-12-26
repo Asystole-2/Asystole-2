@@ -75,9 +75,11 @@ I'm a dedicated third-year **Honours Software Development** student at **Dundalk
 
 ### 📊 GitHub Stats & Coding Activity
 
-<p align="center">
-  <!-- Primary - Vercel -->
-  <img src="https://github-readme-stats.vercel.app/api?username=Asystole-2&show_icons=true&theme=radical" alt="Stats" />
+### 📊 GitHub Stats & Coding Activity
+
+![](https://github-readme-stats.vercel.app/api?username=Asystole-2&theme=radical)
+![](https://github-readme-streak-stats.herokuapp.com/?user=Asystole-2&theme=radical)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Asystole-2&theme=radical&layout=compact)
   
   <!-- Fallback - GitHub's own stats -->
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Asystole-2&theme=radical" alt="Stats Card" />
