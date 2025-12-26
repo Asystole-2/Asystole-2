@@ -78,25 +78,17 @@ I'm a dedicated third-year **Honours Software Development** student at **Dundalk
 
 <p align="center">
   <!-- Using a more reliable endpoint -->
-  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Asystole-2&theme=radical" />
+  <img height="220em" width="200%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Asystole-2&theme=radical" />
   
   <!-- Stats with compact layout that loads faster -->
   <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Asystole-2&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
   
   <!-- Top Languages with faster loading -->
   <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Asystole-2&layout=compact&theme=radical" />
-</p>
   
-  <!-- Fallback - GitHub's own stats -->
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Asystole-2&theme=radical" alt="Stats Card" />
-</p>
-<p align="center">
-  <!-- Combined stats - more likely to load -->
-  <img src="https://github-profile-trophy.vercel.app/?username=Asystole-2&theme=radical&no-frame=true&row=2&column=4" alt="Trophies" />
-  
-  <!-- Simple streak -->
-  <img src="https://streak-stats.demolab.com?user=Asystole-2&theme=radical&hide_border=true" alt="GitHub Streak" />
-</p>
+  <!-- Fallback - GitHub's own stats 
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Asystole-2&theme=radical" alt="Stats Card" /> -->
+</p> 
 
 ---
 
