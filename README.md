@@ -77,8 +77,8 @@ I'm a dedicated third-year **Honours Software Development** student at **Dundalk
 ### 📊 GitHub Stats & Coding Activity
 
 <p align="center">
-  <!-- Using a more reliable endpoint -->
-  <img height="220em" width="200%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Asystole-2&theme=radical" />
+  <!-- Combined stats - more likely to load -->
+  <img src="https://github-profile-trophy.vercel.app/?username=Asystole-2&theme=radical&no-frame=true&row=2&column=4" alt="Trophies" />
   
   <!-- Stats with compact layout that loads faster -->
   <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Asystole-2&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
