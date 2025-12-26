@@ -76,11 +76,16 @@ I'm a dedicated third-year **Honours Software Development** student at **Dundalk
 
 ### 📊 GitHub Stats & Coding Activity
 
-<!-- These stats are generated using GitHub Actions and stored in your repo -->
-
-![Tanatswa's GitHub stats](https://raw.githubusercontent.com/Asystole-2/github-stats/master/generated/overview.svg)
-![Top Languages](https://raw.githubusercontent.com/Asystole-2/github-stats/master/generated/languages.svg)
-![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=Asystole-2&theme=dark&hide_border=true)
+<p align="center">
+  <!-- Using a more reliable endpoint -->
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Asystole-2&theme=radical" />
+  
+  <!-- Stats with compact layout that loads faster -->
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Asystole-2&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
+  
+  <!-- Top Languages with faster loading -->
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Asystole-2&layout=compact&theme=radical" />
+</p>
   
   <!-- Fallback - GitHub's own stats -->
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Asystole-2&theme=radical" alt="Stats Card" />
