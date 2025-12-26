@@ -73,13 +73,14 @@ I'm a dedicated third-year **Honours Software Development** student at **Dundalk
 
 ---
 
-### 📊 GitHub Stats & Coding Activity
 
 ### 📊 GitHub Stats & Coding Activity
 
-![](https://github-readme-stats.vercel.app/api?username=Asystole-2&theme=radical)
-![](https://github-readme-streak-stats.herokuapp.com/?user=Asystole-2&theme=radical)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Asystole-2&theme=radical&layout=compact)
+<!-- These stats are generated using GitHub Actions and stored in your repo -->
+
+![Tanatswa's GitHub stats](https://raw.githubusercontent.com/Asystole-2/github-stats/master/generated/overview.svg)
+![Top Languages](https://raw.githubusercontent.com/Asystole-2/github-stats/master/generated/languages.svg)
+![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=Asystole-2&theme=dark&hide_border=true)
   
   <!-- Fallback - GitHub's own stats -->
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Asystole-2&theme=radical" alt="Stats Card" />
