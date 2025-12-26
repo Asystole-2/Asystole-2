@@ -76,7 +76,7 @@ I'm a dedicated third-year **Honours Software Development** student at **Dundalk
 ### 📊 GitHub Stats & Coding Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Asystole-2&show_icons=true&theme=radical&hide_border=true" alt="Tanatswa's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Asystole-2&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
   <br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Asystole-2&theme=radical&hide_border=true" alt="GitHub Streak" />
   <br/>
